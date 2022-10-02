@@ -7,9 +7,6 @@
 
 ## Description
 Fast-Food-Fast is a food delivery service app challenge built using plain HTML5, CSS, JS for front end and Node.js for the backend. The project is divided into **UI implementation** and **API Endpoints** sections with features for both demonstrated below. The overall solution is hosted on [Heroku](https://fast-food-fast-bobsar0.herokuapp.com/)
-
-### UI Implementation
-> This involves creating just the UI elements - pages and views 
 #### Features
 - User [signup](https://fast-food-fast-bobsar0.herokuapp.com/signup) and [login](https://fast-food-fast-bobsar0.herokuapp.com/login) pages
 - [A page where a user should be able to order for food and view order history](https://fast-food-fast-bobsar0.herokuapp.com/menu)
