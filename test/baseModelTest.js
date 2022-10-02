@@ -6,4 +6,3 @@ describe('Models', () => {
     const UserModel = new BaseModel();
     expect(UserModel).to.be.an.instanceof(BaseModel);
   });
-});
